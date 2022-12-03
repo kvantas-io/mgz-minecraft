@@ -1,4 +1,4 @@
-!(sundje)[sundje.jpg]
+![sundj](sundj.jpg)
 
 *Najoptimalniji* setup za Minecraft server.
 

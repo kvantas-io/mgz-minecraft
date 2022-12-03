@@ -1,0 +1,15 @@
+# Ovo je BSL shader config fajl, stavlja se u shaderpacks/ pored .zip-a sa istim imenom
+# Znaci bice BSL_v{verzija}.zip.txt
+
+shadowDistance=128.0
+AA=0
+FXAA=false
+AO=false
+BLOOM=false
+LENS_FLARE=false
+LIGHT_SHAFT=false
+VIGNETTE=false
+LENS_FLARE=false
+EXPOSURE=-0.75
+SATURATION=1.20
+AURORA=true

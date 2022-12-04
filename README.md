@@ -2,11 +2,18 @@
 
 *Najoptimalniji* setup za Minecraft server.
 
-First you must install the appropriate verison of Fabric for minecraft which can be found here: https://fabricmc.net/
-after downloading and installing the fabric you can download the mods found here and just paste them in your mods folder
+## Minecraft Server Info
 
-`TODO : Stavi server-side mods i client-side mods foldere, stavi server.properties, ip, seed, verziju`
-`TODO : Server-side mods, unzip backup and copy over`
+Verzija: 1.19.2
+IP: Vidi #minecraft kanal na Discord-u
+Seed: 121825627925
+
+## Setup
+
+Skini TLauncher, izaberi 1.19.2, obavezno Fabric verziju.\
+Alternativno instaliraj preko Fabric installer-a sa https://fabricmc.net/. 
+Kloniraj repo (skini sve foldere) i prekopiraj Client-Side Mods u `mods/` folder, i isto tako za shader-e i resource pack-ove.\
+Izbaci one koji ti se ne svidjaju.
 
 ## Placanja
 

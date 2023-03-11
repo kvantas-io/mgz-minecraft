@@ -17,14 +17,17 @@ Izbaci one koji ti se ne svidjaju.
 
 ## Placanja
 
-Server se placa 1,500RSD mesecno, odnosno $14 after tax.
+Server se placa 1,200RSD mesecno, odnosno $12 after tax.
 
-Decembar :
+Decembar (Stari server) :
 - [x] Marko - 800RSD
 - [ ] Djota
 - [x] Mateja - 700RSD
 
-Januar :
+Januar (Stari server) :
 - [x] Marko - 800RSD
 - [ ] Djota
 - [ ] Mateja
+
+Mart : 
+- Djota - DA

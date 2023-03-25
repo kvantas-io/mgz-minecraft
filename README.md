@@ -19,5 +19,7 @@ Izbaci one koji ti se ne svidjaju.
 
 Server se placa 1,400RSD mesecno, odnosno $12 after tax.
 
-Mart placen. 
 Marko dao 680RSD 15.03. za 1.19.3 server. 
+Vuksa dao 800RSD 25.03. za 1.19.3 server. 
+
+Mart placen 11.03.2023.

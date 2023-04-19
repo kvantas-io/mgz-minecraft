@@ -22,6 +22,7 @@ Server se placa 1,400RSD mesecno, odnosno $12 after tax.
 Marko dao 680RSD 15.03. za 1.19.3 server. 
 Vuksa dao 800RSD 25.03. za 1.19.3 server. 
 Marko dao 800RSD 13.04. za 1.19.3 server. 
+Mateja dao 500RSD 19.04. za 1.19.3 server.
 
 Mart placen 11.03.2023.
 April placen 14.04.2023. 

@@ -6,7 +6,7 @@
 
 Verzija: 1.20.4\
 IP: Vidi `#minecraft` kanal na Discord-u\
-Seed: ???
+Seed: 2884545714142563193
 
 ## Setup
 
